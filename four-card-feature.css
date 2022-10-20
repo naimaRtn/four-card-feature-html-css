@@ -68,7 +68,7 @@ h3, h1, h2{
     text-align: center;
 }
 
-h2:first-of-type{
+h1{
     font-weight: 200;
 }
 
